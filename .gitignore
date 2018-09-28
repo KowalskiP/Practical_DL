@@ -79,3 +79,7 @@ debian/files
 .python-version
 
 *.gz
+
+week02_autodiff/notMNIST_small/
+
+homework01/mnist\.npz
